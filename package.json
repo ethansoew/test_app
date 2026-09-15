@@ -1,6 +1,11 @@
+
 {
-  "name": "test_app",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "name": "test-app",
+  "private": true,
+  "dependencies": {},
+  "engines": {
+    "node": "20.x",
+    "yarn": "1.22.x"
+  },
+  "version": "0.1.0"
 }
